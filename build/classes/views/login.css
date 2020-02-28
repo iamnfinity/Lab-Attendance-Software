@@ -1,0 +1,8 @@
+
+.combo-box .list-cell {
+	-fx-text-fill: #FFFFFF;
+}
+
+.combo-box .list-view .list-cell{
+    -fx-background-color: #303030;
+}
